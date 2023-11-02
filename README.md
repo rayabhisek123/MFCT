@@ -1,2 +1,2 @@
 # MFCT
-HFFE-DUT: A Cross Deformable Attention-based Two-stream Stacked Transformer Network for Single Image Super Resolution
+MFCT: A Double-decker Multi-feature Transformer Model for Image Super-resolution
